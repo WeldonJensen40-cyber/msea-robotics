@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local docs (do not upload)
+制作要求.md
+网站网页制作.md
+部署指南.md
+
+# Local source images not required for site
+photos/
