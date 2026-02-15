@@ -10,7 +10,6 @@ import {
 import { Link } from "react-router-dom";
 import geoLiteImg from "../assets/geo-lite.png";
 import geoProImg from "../assets/geo-pro.png";
-import geoProMaxImg from "../assets/geo-pro-max.png";
 
 const Home = () => {
   return (
@@ -120,7 +119,7 @@ const Home = () => {
               title="Geo-Lite 基础版"
               tag="入门首选"
               description="专为中小学生打造的空间思维启蒙套件。6个标准舵机驱动，支持 Scratch 图形化编程，轻松上手变胞机器人。"
-              price="¥499 起"
+              price="¥799 起"
             />
             {/* Geo-Pro */}
             <ProductCard
@@ -128,7 +127,7 @@ const Home = () => {
               title="Geo-Pro 科研版"
               tag="挑战杯神器"
               description="全R副三阶四面体/三棱柱构型。8-9个总线舵机，支持 Python/C++ 高级开发，完美适配高阶科研与竞赛。"
-              price="¥1,500 起"
+              price="¥1,700 起"
             />
           </div>
 

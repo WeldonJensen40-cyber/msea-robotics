@@ -33,7 +33,7 @@ const Products = () => {
           <ProductDetailCard
             title="Geo-Lite"
             subtitle="基础探究版"
-            price="¥499"
+            price="¥799"
             description="专为中小学设计，安全易上手。通过模块化拼搭，轻松实现从平面到空间的形态变换。"
             features={[
               "6个标准数字舵机",
@@ -49,7 +49,7 @@ const Products = () => {
           <ProductDetailCard
             title="Geo-Pro"
             subtitle="三阶四面体版"
-            price="¥1,500"
+            price="¥1,700"
             description="全R副闭链结构，完美还原北交大科研成果。支持复杂步态规划，是学习机构学的最佳教具。"
             features={[
               "12个总线舵机",
@@ -66,7 +66,7 @@ const Products = () => {
           <ProductDetailCard
             title="Geo-Pro Max"
             subtitle="三棱柱进阶版"
-            price="¥1,899"
+            price="¥2,399"
             description="冗余驱动设计，具备更强的越障能力与负载能力。适合参加高水平科创竞赛与课题研究。"
             features={[
               "9个总线舵机",

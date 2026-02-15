@@ -30,3 +30,7 @@ dist-ssr
 
 # Local source images not required for site
 photos/
+
+# Archives
+*.zip
+*.rar
