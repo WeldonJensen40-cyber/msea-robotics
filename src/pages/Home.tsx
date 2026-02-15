@@ -127,7 +127,7 @@ const Home = () => {
               title="Geo-Pro 科研版"
               tag="挑战杯神器"
               description="全R副三阶四面体/三棱柱构型。8-9个总线舵机，支持 Python/C++ 高级开发，完美适配高阶科研与竞赛。"
-              price="¥1,700 起"
+              price="¥1,799 起"
             />
           </div>
 

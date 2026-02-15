@@ -49,7 +49,7 @@ const Products = () => {
           <ProductDetailCard
             title="Geo-Pro"
             subtitle="三阶四面体版"
-            price="¥1,700"
+            price="¥1,799"
             description="全R副闭链结构，完美还原北交大科研成果。支持复杂步态规划，是学习机构学的最佳教具。"
             features={[
               "12个总线舵机",
